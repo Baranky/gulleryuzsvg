@@ -1,0 +1,21 @@
+<html>
+    <head>
+
+    </head>
+    <body>
+        <div style="text-align: center;">
+            <a href="iletisim.html" style="text-decoration: none;">İLETİŞİM</a>
+            <a href="inonu.html" style="text-decoration: none;">İNÖNÜ ÜNİVERSİTESİ</a>
+        </div>
+        <div>
+            <svg width="1000" height="1000">
+                <g>                
+                    <circle cx="400" cy="400" r="400"  fill="red" />
+                    <circle cx="100" cy="300" r="40"  fill="black" />
+                    <circle cx="700" cy="300" r="40"  fill="black" />
+                    <rect x="250" y="500" width="400" height="50" style="fill:rgb(0, 0, 0);stroke-width:10;stroke:rgb(0,0,0)" />
+                </g>
+              </svg>
+        </div>
+    </body>
+</html>
